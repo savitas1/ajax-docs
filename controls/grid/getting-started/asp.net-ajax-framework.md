@@ -53,7 +53,7 @@ If you receive exceptions such as:
 
 * System.Web.HttpException: The Controls collection cannot be modified because the control contains code blocks *
 
-you need to the code block inside RadCodeBlock, i.e.:
+you need to make the changes as below to the code block inside RadCodeBlock, i.e.:
 
 **Incorrect:**
 
