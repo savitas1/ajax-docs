@@ -16,7 +16,7 @@ Even though the **RadGrid** control currently does not provide separate mobile r
 
 ## 
 
-On mobile devices the **scrolling** and **row drag-drop** features in the grid are performed by the same **touch gesture**: dragging of the content area of the grid with one tough point. This imposes a limitation when both features are enabled on touch devices because it cannot be exclusively determined which one of the two should be performed. One way to distinguish between scrolling and row drag-drop on mobile devices is to use a **GridDragDropColumn** - this way the dragging of the rows will be performed only when you drag a row by the icon in the GridDragDropColumn and on the rest of the content area scrolling will be performed.
+On mobile devices the **scrolling** and **row drag-drop** features in the grid are performed by the same **touch gesture**: dragging of the content area of the grid with one touch point. This imposes a limitation when both features are enabled on touch devices because it cannot be exclusively determined which one of the two should be performed. One way to distinguish between scrolling and row drag-drop on mobile devices is to use a **GridDragDropColumn** - this way the dragging of the rows will be performed only when you drag a row by the icon in the GridDragDropColumn and on the rest of the content area scrolling will be performed.
 
 ## 
 
