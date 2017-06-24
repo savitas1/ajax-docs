@@ -12,7 +12,7 @@ position: 2
 
 
 
-RadFilter can be used to build complex filtering criteria by means of intuitive visual UI and depending on the data type of the underlying source fields. To use **RadFilter** to filter data in **RadLsitView**, you need to set the **FilterContainerID** property of RadFilter or handler the **ApplyExpressions** server event of RadFilter.
+RadFilter can be used to build complex filtering criteria by means of intuitive visual UI and depending on the data type of the underlying source fields. To use **RadFilter** to filter data in **RadLsitView**, you need to set the **FilterContainerID** property of RadFilter or handle the **ApplyExpressions** server event of RadFilter.
 
 ## Using the FilterContainerID property
 
