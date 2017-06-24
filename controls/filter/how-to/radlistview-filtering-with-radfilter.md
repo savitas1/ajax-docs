@@ -72,7 +72,7 @@ RadFilter can be used to build complex filtering criteria by means of intuitive 
 
 
 
-## Handling the AppyExpressions event handler
+## Handling the ApplyExpressions event handler
 
 
 
